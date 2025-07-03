@@ -1,2 +1,2 @@
-# myweather
-A simple beautiful weather app
+# MyWeather
+A beautiful and simple weather application
